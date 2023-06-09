@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Onboarding = () => {
   return (
     <div className="wrapper">
@@ -15,7 +17,9 @@ const Onboarding = () => {
           </p>
 
           <div className="btn">
+            <Link to="/login">
             <button>Login</button>
+            </Link>
             <button>SignUp</button>
           </div>
           
