@@ -152,3 +152,120 @@ p.text{
   transition: .4s ease-in-out;
   background-color: rgba(82, 86, 116, 0.7);;
 }
+
+.signUp{
+  top: 0;
+  background-image: url("../public/images/Group\ 4.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  left: 0;
+}
+
+.design2{
+  background: rgba(24, 27, 54, 0.7);
+  width: 100%;
+  height: 100vh;
+  padding-top: 5rem;
+}
+
+.form2{
+  background-color:  rgba(240, 248, 255, 0.6);
+  width: 30rem;
+  height: 30rem;
+  margin-inline: auto ;
+  border-radius: 2rem;
+  border: 0.2rem solid rgba(8, 15, 56, 0.7);
+}
+
+.inputFieldA{
+  width: 80%;
+  height: 2.8rem;
+  margin-top: 4rem;
+  margin-left: 3rem;
+}
+
+.inputFieldA{
+  /* position: relative; */
+  border: 1px solid #636364;
+  padding: 10px 15px;
+  border-radius: 0.4rem;
+  font-size: 1.2rem;
+}
+
+.inputFieldB{
+  width: 80%;
+  height: 2.8rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.inputFieldB{
+  /* position: relative; */
+  border: 1px solid #636364;
+  padding: 10px 15px;
+  border-radius: 0.4rem;
+  font-size: 1.2rem;
+}
+.inputFieldC{
+  width: 80%;
+  height: 2.8rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.inputFieldC{
+  /* position: relative; */
+  border: 1px solid #636364;
+  padding: 10px 15px;
+  border-radius: 0.4rem;
+  font-size: 1.2rem;
+}
+
+.inputFieldD{
+  width: 80%;
+  height: 2.8rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.inputFieldD{
+  /* position: relative; */
+  border: 1px solid #636364;
+  padding: 10px 15px;
+  border-radius: 0.4rem;
+  font-size: 1.2rem;
+}
+
+.inputFieldE{
+  width: 80%;
+  height: 2.8rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.inputFieldE{
+  /* position: relative; */
+  border: 1px solid #636364;
+  padding: 10px 15px;
+  border-radius: 0.4rem;
+  font-size: 1.2rem;
+}
+
+.bt2{
+  position: relative;
+  background: #F5F4F4;
+  padding: 1rem 4rem;
+  width: 60%;
+  border-radius: 2rem;
+  font-size: 1.2rem;
+  margin-top: 5rem;
+  border: 1px solid rgb(35, 36, 1);
+  cursor: pointer;
+  margin-left: 6rem;
+}
+
+.bt2:hover {
+  transition: .4s ease-in-out;
+  background-color: rgba(82, 86, 116, 0.7);;
+}
